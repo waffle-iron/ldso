@@ -8,7 +8,7 @@
 * Developers
   * [João Costa](https://github.com/quartz55) as Scrum Master
   * [Ricardo Magalhães]() as Surrogate Project Owner
-  * [Mário Esteves](https://github.com/SonawHeaven)
+  * [Mário Esteves](https://github.com/SonerSound)
   * [Ricardo Silva](https://github.com/ricsilva93)
   * [Nuno Silva](https://github.com/nuno-silva18)
   * [João Almeida](https://github.com/johnnygato)
