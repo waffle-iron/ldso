@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/SonerSound/ldso.png?label=ready&title=Ready)](https://waffle.io/SonerSound/ldso)
 # LDSO - 2016 - CozyFood
 
 ## Table of contents
